@@ -1,0 +1,22 @@
+{
+  "name": "task-2-rest-api",
+  "version": "1.0.0",
+  "description": "A simple REST API built with Node.js and Express for Codveda Full-Stack Internship Task 2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api",
+    "codveda",
+    "crud"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
